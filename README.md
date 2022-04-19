@@ -18,3 +18,9 @@ For a start whatsapp is the mastermind where all the other applications submit t
 - instagram
 - telegram
 - and any other left out
+
+you can follow the series and monitor the developement of the application in my:
+
+- youtube channel [dev 0x00]
+- twitter handle  [@dev/0XOO]
+- linkedin        [dev/null]
