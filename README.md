@@ -7,14 +7,14 @@ into one application using the applications api.
 
 For a start whatsapp is the mastermind where all the other applications submit to.
 
-##integrated applications include##
+## integrated applications include ##
 
--Twitter
--linkedin
--facebook
--youtube
--tiktok
--discord
--instagram
--telegram
--and any other left out
+- Twitter
+- linkedin
+- facebook
+- youtube
+- tiktok
+- discord
+- instagram
+- telegram
+- and any other left out
